@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MVANILREDDY
 - 👀 I’m interested in  Automation,Devops,Databases
 - 🌱 I’m currently learning and unlearning 
-- 💞️ I’m looking to collaborate on Iac
+- 💞️ I’m looking to collaborate on Devops tasks
 
 
 <!---
